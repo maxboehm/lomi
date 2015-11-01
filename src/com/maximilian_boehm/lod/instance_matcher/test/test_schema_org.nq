@@ -1,0 +1,19 @@
+# Direkter Hit bei Dbpedia
+# http://www.dbpedia.org/page/Moraine_Valley_Community_College
+<_:111c436712e639ce7fc3cac7148b8a8c> <http://dbpedia.org/property/name> "Moraine Valley Community College"@en-us .
+<_:111c436712e639ce7fc3cac7148b8a8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> .
+
+#http://live.dbpedia.org/page/Colby_Community_College
+<_:115ee2e6b4907881a6555be8382b149b> <http://dbpedia.org/property/name> "Colby Community College"@en-us .
+<_:115ee2e6b4907881a6555be8382b149b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> .
+
+#http://www.dbpedia.org/page/Community_College_of_Philadelphia
+<_:5fc10dbd6bf3462f6f548fac7fb64095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> .
+<_:5fc10dbd6bf3462f6f548fac7fb64095> <http://dbpedia.org/property/url> <http://www.ccp.edu> .
+<_:5fc10dbd6bf3462f6f548fac7fb64095> <http://dbpedia.org/ontology/description> "Community College of Philadelphia with more than 70 associate's degree, certificate and continuing education programs is your path to possibilities."@en .
+<_:5fc10dbd6bf3462f6f548fac7fb64095> <http://dbpedia.org/property/name> "Community College of Philadelphia"@en .
+<_:5fc10dbd6bf3462f6f548fac7fb64095> <http://dbpedia.org/ontology/locality> "Philadelphia"@en .
+<_:5fc10dbd6bf3462f6f548fac7fb64095> <http://dbpedia.org/property/telephone> "215-751-8000"@en .
+<_:5fc10dbd6bf3462f6f548fac7fb64095> <http://dbpedia.org/ontology/postalCode> "19130"@en .
+<_:5fc10dbd6bf3462f6f548fac7fb64095> <http://dbpedia.org/ontology/region> "PA"@en .
+<_:5fc10dbd6bf3462f6f548fac7fb64095> <http://dbpedia.org/property/streetaddress> "1700 Spring Garden Street"@en .

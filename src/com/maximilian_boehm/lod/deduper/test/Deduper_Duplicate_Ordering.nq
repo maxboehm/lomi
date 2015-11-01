@@ -1,0 +1,31 @@
+# Regular Entry (IN OUTPUT)
+<_:6a8c160cabb6a129f30d0c02760c2ad1> <http://schema.org/Person/email> <mailto:jfenton@bethelks.edu> .
+<_:6a8c160cabb6a129f30d0c02760c2ad1> <http://schema.org/Person/jobTitle> "Web Editor, Media Services Coordinator" .
+<_:6a8c160cabb6a129f30d0c02760c2ad1> <http://schema.org/Person/name> "Joe Fenton" .
+<_:6a8c160cabb6a129f30d0c02760c2ad1> <http://schema.org/Person/telephone> "316-284-5877" .
+<_:6a8c160cabb6a129f30d0c02760c2ad1> <http://schema.org/Person/telephone> "877" .
+<_:6a8c160cabb6a129f30d0c02760c2ad1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+
+# Duplicate of line #20 (NOT IN OUTPUT)
+<_:fe39fca4a2df80b38553b352b6e44cbc> <http://schema.org/Person/email> <mailto:jfenton@bethelks.edu> .
+<_:fe39fca4a2df80b38553b352b6e44cbc> <http://schema.org/Person/jobTitle> "Web Editor, Media Services Coordinator" .
+<_:fe39fca4a2df80b38553b352b6e44cbc> <http://schema.org/Person/name> "Joe Fenton" .
+<_:fe39fca4a2df80b38553b352b6e44cbc> <http://schema.org/Person/telephone> "316-284-5877" .
+<_:fe39fca4a2df80b38553b352b6e44cbc> <http://schema.org/Person/telephone> "877" .
+<_:fe39fca4a2df80b38553b352b6e44cbc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+
+# Duplicate of line #20 & 28, but with different ordering (NOT IN OUTPUT)
+<_:fe39fca4a2df80b38553b352b6e44cxx> <http://schema.org/Person/email> <mailto:jfenton@bethelks.edu> .
+<_:fe39fca4a2df80b38553b352b6e44cxx> <http://schema.org/Person/jobTitle> "Web Editor, Media Services Coordinator" .
+<_:fe39fca4a2df80b38553b352b6e44cxx> <http://schema.org/Person/name> "Joe Fenton" .
+<_:fe39fca4a2df80b38553b352b6e44cxx> <http://schema.org/Person/telephone> "877" .
+<_:fe39fca4a2df80b38553b352b6e44cxx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<_:fe39fca4a2df80b38553b352b6e44cxx> <http://schema.org/Person/telephone> "316-284-5877" .
+
+# Like line #20 & #30 but with slightly different name (IN OUTPUT)
+<_:fe39fca4a2df80b38553b352b6e44cee> <http://schema.org/Person/email> <mailto:jfenton@bethelks.edu> .
+<_:fe39fca4a2df80b38553b352b6e44cee> <http://schema.org/Person/jobTitle> "Web Editor, Media Services Coordinator" .
+<_:fe39fca4a2df80b38553b352b6e44cee> <http://schema.org/Person/name> "Joe Fentona" .
+<_:fe39fca4a2df80b38553b352b6e44cee> <http://schema.org/Person/telephone> "316-284-5877" .
+<_:fe39fca4a2df80b38553b352b6e44cee> <http://schema.org/Person/telephone> "877" .
+<_:fe39fca4a2df80b38553b352b6e44cee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .

@@ -1,0 +1,11 @@
+# Regular entry
+<_:22880cdfe7d217dec6c70e45535ccc54> <http://schema.org/Person/gender> "Female"@en-us .
+<_:22880cdfe7d217dec6c70e45535ccc54> <http://schema.org/Person/homeLocation> <_:e6a87e2f607ddb07d9beabb447df847a> .
+<_:22880cdfe7d217dec6c70e45535ccc54> <http://schema.org/Person/name> "Amanda P"@en-us .
+<_:22880cdfe7d217dec6c70e45535ccc54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+
+# Referenced by #52
+<_:e6a87e2f607ddb07d9beabb447df847a> <http://schema.org/Place/name> "Pittsburg, CA 94565 US"@en-us .
+<_:e6a87e2f607ddb07d9beabb447df847a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+
+

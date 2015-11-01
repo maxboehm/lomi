@@ -1,0 +1,20 @@
+# Main instance
+<_:MAIN> <http://schema.org/Person/homeLocation> <_:REC_1> .
+<_:MAIN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+
+
+
+# Will be resolved by line #7
+# There is a hierarchy which should be resolved, line #35 & #41 should occur in main instance
+<_:REC_1> <http://schema.org/Place/logo> <http://test.de/logo.jpg> .
+<_:REC_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<_:REC_1> <http://schema.org/Person/address> <_:REC_2> .
+
+# Will be resolved by line 37
+<_:REC_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<_:REC_2> <http://schema.org/addressCountry> "USA"@en-us .
+<_:REC_2> <http://schema.org/addressLocality> "Mountain View"@en-us .
+<_:REC_2> <http://schema.org/addressRegion> "CA"@en-us .
+<_:REC_2> <http://schema.org/postOfficeBoxNumber> "23754"@en-us .
+<_:REC_2> <http://schema.org/postalCode> "94043"@en-us .
+<_:REC_2> <http://schema.org/streetAddress> "1600 Amphitheatre Pkwy"@en-us .

@@ -1,0 +1,11 @@
+<_:1204a97a960df8ceb716b49cacb4bcdd> <http://dbpedia.org/ontology/description> "This page details the mission, vision, and objectives of the Mechanical Engineering department at Lawrence Technological University. " .
+<_:1204a97a960df8ceb716b49cacb4bcdd> <http://dbpedia.org/ontology/locality> "Southfield" .
+<_:1204a97a960df8ceb716b49cacb4bcdd> <http://dbpedia.org/ontology/postalCode> "48075-1058" .
+<_:1204a97a960df8ceb716b49cacb4bcdd> <http://dbpedia.org/ontology/region> "MI" .
+<_:1204a97a960df8ceb716b49cacb4bcdd> <http://dbpedia.org/property/latitude> "42.473048" .
+<_:1204a97a960df8ceb716b49cacb4bcdd> <http://dbpedia.org/property/longitude> "-83.250956" .
+<_:1204a97a960df8ceb716b49cacb4bcdd> <http://dbpedia.org/property/name> "LAWRENCE TECHNOLOGICAL UNIVERSITY" .
+<_:1204a97a960df8ceb716b49cacb4bcdd> <http://dbpedia.org/property/streetaddress> "21000 West Ten Mile Road" .
+<_:1204a97a960df8ceb716b49cacb4bcdd> <http://dbpedia.org/property/telephone> "248-204-4000" .
+<_:1204a97a960df8ceb716b49cacb4bcdd> <http://dbpedia.org/property/url> <http://www.ltu.edu> .
+<_:1204a97a960df8ceb716b49cacb4bcdd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> .

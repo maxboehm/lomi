@@ -1,0 +1,14 @@
+<_:MAIN> <http://dbpedia.org/ontology/locality> "Mountain View"@en-us .
+<_:MAIN> <http://dbpedia.org/ontology/locationCountry> "USA"@en-us .
+<_:MAIN> <http://dbpedia.org/ontology/postalCode> "94043"@en-us .
+<_:MAIN> <http://dbpedia.org/ontology/region> "CA"@en-us .
+<_:MAIN> <http://dbpedia.org/property/logo> <http://test.de/logo.jpg> .
+<_:MAIN> <http://dbpedia.org/property/streetaddress> "1600 Amphitheatre Pkwy"@en-us .
+<_:MAIN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<_:REC_1> <http://dbpedia.org/ontology/locality> "Mountain View"@en-us .
+<_:REC_1> <http://dbpedia.org/ontology/locationCountry> "USA"@en-us .
+<_:REC_1> <http://dbpedia.org/ontology/postalCode> "94043"@en-us .
+<_:REC_1> <http://dbpedia.org/ontology/region> "CA"@en-us .
+<_:REC_1> <http://dbpedia.org/property/logo> <http://test.de/logo.jpg> .
+<_:REC_1> <http://dbpedia.org/property/streetaddress> "1600 Amphitheatre Pkwy"@en-us .
+<_:REC_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .

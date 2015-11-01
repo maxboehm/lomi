@@ -1,0 +1,14 @@
+# Regular entry (IN OUTPUT)
+<_:100eef70a2acb23f8142c1ee6f7cda26> <http://schema.org/PostalAddress/addressCountry> "Congo-Kinshasa"@fr .
+<_:100eef70a2acb23f8142c1ee6f7cda26> <http://schema.org/PostalAddress/addressLocality> "Lubumbashi"@fr .
+<_:100eef70a2acb23f8142c1ee6f7cda26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+
+# Duplicate of entry at line 1 with different subject (NOT IN OUTPUT)
+<_:100eef70a2acb23f8142c1ee6f7cda25> <http://schema.org/PostalAddress/addressCountry> "Congo-Kinshasa"@fr .
+<_:100eef70a2acb23f8142c1ee6f7cda25> <http://schema.org/PostalAddress/addressLocality> "Lubumbashi"@fr .
+<_:100eef70a2acb23f8142c1ee6f7cda25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+
+# Another Regular entry (IN OUTPUT)
+<_:6a8c160cabb6a129f30d0c02760c2aaf> <http://schema.org/Person/name> "Peter Mustermann" .
+<_:6a8c160cabb6a129f30d0c02760c2aaf> <http://schema.org/Person/telephone> "2344634" .
+<_:6a8c160cabb6a129f30d0c02760c2aaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .

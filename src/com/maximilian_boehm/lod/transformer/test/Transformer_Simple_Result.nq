@@ -1,0 +1,6 @@
+<_:6a8c160cabb6a129f30d0c02760c2ad1> <http://dbpedia.org/property/email> <mailto:jfenton@bethelks.edu> .
+<_:6a8c160cabb6a129f30d0c02760c2ad1> <http://dbpedia.org/property/name> "Joe Fenton" .
+<_:6a8c160cabb6a129f30d0c02760c2ad1> <http://dbpedia.org/property/occupation> "Web Editor, Media Services Coordinator" .
+<_:6a8c160cabb6a129f30d0c02760c2ad1> <http://dbpedia.org/property/telephone> "316-284-5877" .
+<_:6a8c160cabb6a129f30d0c02760c2ad1> <http://dbpedia.org/property/telephone> "877" .
+<_:6a8c160cabb6a129f30d0c02760c2ad1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .

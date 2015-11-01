@@ -1,0 +1,31 @@
+<_:291c25f5063c3bcc6cbc637d9c9a75b7> <http://dbpedia.org/ontology/locality> "Mountain View"@en-us .
+<_:291c25f5063c3bcc6cbc637d9c9a75b7> <http://dbpedia.org/ontology/locationCountry> "USA"@en-us .
+<_:291c25f5063c3bcc6cbc637d9c9a75b7> <http://dbpedia.org/ontology/postalCode> "94043"@en-us .
+<_:291c25f5063c3bcc6cbc637d9c9a75b7> <http://dbpedia.org/ontology/region> "CA"@en-us .
+<_:291c25f5063c3bcc6cbc637d9c9a75b7> <http://dbpedia.org/property/logo> <http://test.de/logo.jpg> .
+<_:291c25f5063c3bcc6cbc637d9c9a75b7> <http://dbpedia.org/property/name> "West Vancouver, British Columbia, CANADA"@en-us .
+<_:291c25f5063c3bcc6cbc637d9c9a75b7> <http://dbpedia.org/property/streetaddress> "1600 Amphitheatre Pkwy"@en-us .
+<_:291c25f5063c3bcc6cbc637d9c9a75b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<_:5ac894e0afc26a139683913bb2ada42> <http://dbpedia.org/ontology/Image> <http://l.yimg.com/rd/y/image/squared/resized/95/95/?url=http%3A%2F%2Favatars.zenfs.com%2Fusers%2F1DJGkdA6uAAECQWEo8AceAQ%3D%3D.large.png> .
+<_:5ac894e0afc26a139683913bb2ada42> <http://dbpedia.org/ontology/alumni> <_:b34ffd296ed4daea85c4483632b52c71> .
+<_:5ac894e0afc26a139683913bb2ada42> <http://dbpedia.org/ontology/alumni> <_:fee2cd50b259423e1839b92538afe688> .
+<_:5ac894e0afc26a139683913bb2ada42> <http://dbpedia.org/ontology/locality> "Mountain View"@en-us .
+<_:5ac894e0afc26a139683913bb2ada42> <http://dbpedia.org/ontology/locationCountry> "USA"@en-us .
+<_:5ac894e0afc26a139683913bb2ada42> <http://dbpedia.org/ontology/postalCode> "94043"@en-us .
+<_:5ac894e0afc26a139683913bb2ada42> <http://dbpedia.org/ontology/region> "CA"@en-us .
+<_:5ac894e0afc26a139683913bb2ada42> <http://dbpedia.org/property/affiliation> <_:8c18523fcc891b918c39100f06ab0da1> .
+<_:5ac894e0afc26a139683913bb2ada42> <http://dbpedia.org/property/email> "ABCbohemier@ymail.com"@en-us .
+<_:5ac894e0afc26a139683913bb2ada42> <http://dbpedia.org/property/email> "bohemier@ymail.com"@en-us .
+<_:5ac894e0afc26a139683913bb2ada42> <http://dbpedia.org/property/logo> <http://test.de/logo.jpg> .
+<_:5ac894e0afc26a139683913bb2ada42> <http://dbpedia.org/property/name> "...The TAURUS CURMUDGEON"@en-us .
+<_:5ac894e0afc26a139683913bb2ada42> <http://dbpedia.org/property/streetaddress> "1600 Amphitheatre Pkwy"@en-us .
+<_:5ac894e0afc26a139683913bb2ada42> <http://dbpedia.org/property/telephone> "243235345"@en-us .
+<_:5ac894e0afc26a139683913bb2ada42> <http://dbpedia.org/property/telephone> "666666"@en-us .
+<_:5ac894e0afc26a139683913bb2ada42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<_:5ac894e0afc26a139683913bb2ada42> <http://xmlns.com/foaf/0.1/gender> "Male"@en-us .
+<_:8c18523fcc891b918c39100f06ab0da1> <http://dbpedia.org/property/name> "Principal Engineer at BETA Systems Engineering Company"@en-us .
+<_:8c18523fcc891b918c39100f06ab0da1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<_:b34ffd296ed4daea85c4483632b52c71> <http://dbpedia.org/property/name> "Alberta,Calgary"@en-us .
+<_:b34ffd296ed4daea85c4483632b52c71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> .
+<_:fee2cd50b259423e1839b92538afe688> <http://dbpedia.org/property/name> "King Edward,Vancouver"@en-us .
+<_:fee2cd50b259423e1839b92538afe688> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> .

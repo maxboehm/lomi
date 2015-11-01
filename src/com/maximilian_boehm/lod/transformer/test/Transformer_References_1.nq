@@ -1,0 +1,19 @@
+<_:1204a97a960df8ceb716b49cacb4bcdd> <http://schema.org/EducationalOrganization/address> <_:8be8606b614a518fe345aacb48b0701b> .
+<_:1204a97a960df8ceb716b49cacb4bcdd> <http://schema.org/EducationalOrganization/description> "This page details the mission, vision, and objectives of the Mechanical Engineering department at Lawrence Technological University. " .
+<_:1204a97a960df8ceb716b49cacb4bcdd> <http://schema.org/EducationalOrganization/geo> <_:5a67a9f4b64f16854f592ea2404f5ada> .
+<_:1204a97a960df8ceb716b49cacb4bcdd> <http://schema.org/EducationalOrganization/name> "LAWRENCE TECHNOLOGICAL UNIVERSITY" .
+<_:1204a97a960df8ceb716b49cacb4bcdd> <http://schema.org/EducationalOrganization/telephone> "248-204-4000" .
+<_:1204a97a960df8ceb716b49cacb4bcdd> <http://schema.org/EducationalOrganization/url> <http://www.ltu.edu> .
+<_:1204a97a960df8ceb716b49cacb4bcdd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> .
+
+<_:5a67a9f4b64f16854f592ea2404f5ada> <http://schema.org/GeoCoordinates/latitude> "42.473048" .
+<_:5a67a9f4b64f16854f592ea2404f5ada> <http://schema.org/GeoCoordinates/longitude> "-83.250956" .
+<_:5a67a9f4b64f16854f592ea2404f5ada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+
+
+
+<_:8be8606b614a518fe345aacb48b0701b> <http://schema.org/PostalAddress/addressLocality> "Southfield" .
+<_:8be8606b614a518fe345aacb48b0701b> <http://schema.org/PostalAddress/addressRegion> "MI" .
+<_:8be8606b614a518fe345aacb48b0701b> <http://schema.org/PostalAddress/postalCode> "48075-1058" .
+<_:8be8606b614a518fe345aacb48b0701b> <http://schema.org/PostalAddress/streetAddress> "21000 West Ten Mile Road" .
+<_:8be8606b614a518fe345aacb48b0701b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .

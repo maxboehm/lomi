@@ -1,0 +1,31 @@
+<http://dbpedia.org/resource/Moraine_Valley_Community_College> <http://dbpedia.org/ontology/athletics> <http://dbpedia.org/resource/Association_football> .
+<http://dbpedia.org/resource/Moraine_Valley_Community_College> <http://dbpedia.org/ontology/athletics> <http://dbpedia.org/resource/Baseball> .
+<http://dbpedia.org/resource/Moraine_Valley_Community_College> <http://dbpedia.org/ontology/athletics> <http://dbpedia.org/resource/Basketball> .
+<http://dbpedia.org/resource/Moraine_Valley_Community_College> <http://dbpedia.org/ontology/athletics> <http://dbpedia.org/resource/Cross_country_running> .
+<http://dbpedia.org/resource/Moraine_Valley_Community_College> <http://dbpedia.org/ontology/athletics> <http://dbpedia.org/resource/Golf> .
+<http://dbpedia.org/resource/Moraine_Valley_Community_College> <http://dbpedia.org/ontology/athletics> <http://dbpedia.org/resource/Softball> .
+<http://dbpedia.org/resource/Moraine_Valley_Community_College> <http://dbpedia.org/ontology/athletics> <http://dbpedia.org/resource/Tennis> .
+<http://dbpedia.org/resource/Moraine_Valley_Community_College> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/Palos_Hills,_Illinois> .
+<http://dbpedia.org/resource/Moraine_Valley_Community_College> <http://dbpedia.org/ontology/mascot> "The Cyclones".
+<http://dbpedia.org/resource/Moraine_Valley_Community_College> <http://dbpedia.org/ontology/motto> "Changing lives for a changing world".
+<http://dbpedia.org/resource/Moraine_Valley_Community_College> <http://dbpedia.org/ontology/numberOfStudents> "36000"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Moraine_Valley_Community_College> <http://dbpedia.org/ontology/officialSchoolColour> "Green and white".
+<http://dbpedia.org/resource/Moraine_Valley_Community_College> <http://dbpedia.org/ontology/state> <http://dbpedia.org/resource/Illinois> .
+<http://dbpedia.org/resource/Moraine_Valley_Community_College> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Community_college> .
+<http://dbpedia.org/resource/Moraine_Valley_Community_College> <http://www.georss.org/georss/point> "41.69305555555555 -87.83777777777777".
+<http://dbpedia.org/resource/Moraine_Valley_Community_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Moraine_Valley_Community_College> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "41.69305555555555"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Moraine_Valley_Community_College> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-87.83777777777777"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Moraine_Valley_Community_College> <http://xmlns.com/foaf/0.1/homepage> <http://www.morainevalley.edu> .
+<http://dbpedia.org/resource/Moraine_Valley_Community_College> <http://xmlns.com/foaf/0.1/name> "Moraine Valley Community College"@en .
+#
+<http://dbpedia.org/resource/Community_College_of_Philadelphia> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/Philadelphia> .
+<http://dbpedia.org/resource/Community_College_of_Philadelphia> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Community_College_of_Philadelphia> <http://dbpedia.org/ontology/facultySize> "1045"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Community_College_of_Philadelphia> <http://dbpedia.org/ontology/motto> "\"The path to possibilities.\"".
+<http://dbpedia.org/resource/Community_College_of_Philadelphia> <http://dbpedia.org/ontology/numberOfStudents> "39270"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Community_College_of_Philadelphia> <http://dbpedia.org/ontology/state> <http://dbpedia.org/resource/Pennsylvania> .
+<http://dbpedia.org/resource/Community_College_of_Philadelphia> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Community_college> .
+<http://dbpedia.org/resource/Community_College_of_Philadelphia> <http://xmlns.com/foaf/0.1/homepage> <http://www.ccp.edu/> .
+<http://dbpedia.org/resource/Community_College_of_Philadelphia> <http://xmlns.com/foaf/0.1/name> "Community College of Philadelphia"@en .
+<http://dbpedia.org/resource/Community_College_of_Philadelphia> <http://dbpedia.org/property/url> <http://www.ccp.edu> .

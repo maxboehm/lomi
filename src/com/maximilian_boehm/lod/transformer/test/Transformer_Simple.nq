@@ -1,0 +1,7 @@
+# Regular Entry (IN OUTPUT)
+<_:6a8c160cabb6a129f30d0c02760c2ad1> <http://schema.org/Person/email> <mailto:jfenton@bethelks.edu> .
+<_:6a8c160cabb6a129f30d0c02760c2ad1> <http://schema.org/Person/jobTitle> "Web Editor, Media Services Coordinator" .
+<_:6a8c160cabb6a129f30d0c02760c2ad1> <http://schema.org/Person/name> "Joe Fenton" .
+<_:6a8c160cabb6a129f30d0c02760c2ad1> <http://schema.org/Person/telephone> "316-284-5877" .
+<_:6a8c160cabb6a129f30d0c02760c2ad1> <http://schema.org/Person/telephone> "877" .
+<_:6a8c160cabb6a129f30d0c02760c2ad1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
